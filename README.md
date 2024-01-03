@@ -4,7 +4,7 @@ Expo install :
 
 - Download and install the Expo Go app on your physical device from the App Store (iOS) or Google Play Store (Android).
 - brew update
-- brew install watchman
+- brew install watchman (https://facebook.github.io/watchman/docs/install)
 
 Repo install :
 - npm install
