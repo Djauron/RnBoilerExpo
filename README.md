@@ -7,7 +7,7 @@ Expo install :
 - brew install watchman
 
 Repo install :
-- npm i
+- npm install
 
 Launch Expo :
 - npx expo start
